@@ -1,5 +1,5 @@
 # git_test
 another first GitHub repo
-Hello Odin!
+<br>Hello Odin!<br>
 I'm back again
-Keep at it, even when you want to bang your head against the wall
+<br>Keep at it, even when you want to bang your head against the wall<br>
